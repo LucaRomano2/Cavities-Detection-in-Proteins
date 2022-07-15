@@ -1,0 +1,10 @@
+# file pdb
+*.pdb
+*.mol2
+.DS_Store
+*.sdf
+
+#directory
+venv
+.idea
+
